@@ -1,0 +1,254 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-image: url(cp.jpg);
+}
+header{
+    width: 1600px; 
+    height: 116px; 
+    position: relative;
+}
+button{
+    width: 290px; 
+    height: 30px; 
+    background-color: transparent;
+    border-style: none;
+    color: #02D7F2; 
+    font-size: 20px; 
+    font-family: DotGothic16; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    margin-left: 30px;
+    float: left;
+    cursor: pointer;
+    margin-top: 50px;
+    
+}
+
+ .line{
+    width: 1897px; 
+    height: 0px;
+    border: 5px rgba(255, 246, 2, 0.63) solid;
+ }
+ .block{
+    width: 800px; 
+    height: 700px; 
+    left: 500px; 
+    top: 160px; 
+    position: absolute; 
+    box-shadow: 10px 10px 10px;
+    border: 8px #02D7F2 solid; 
+    filter: blur(10px);
+ }
+ .logo{
+    width: 800px; 
+    height: 672px; 
+    left: 500px; 
+    top: 170px;
+    position: absolute; 
+    border-radius: 9px;
+ }
+ .block2{
+    width: 1915px; 
+    height: 594px; 
+    left: -5px; 
+    top: 240px; 
+    position: absolute; 
+    background: linear-gradient(0deg, rgba(242, 233, 0, 0.53) 0%, rgba(242, 233, 0, 0.53) 100%); 
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.30) inset; 
+    backdrop-filter: blur(100px);
+ }
+ .frame{
+    width: 260px; 
+    height: 360px; 
+    left: 59px; 
+    top: 320px; 
+    position: absolute; 
+    box-shadow: 10px 10px 10px;
+    border: 5px rgba(255, 0, 0, 0.90) solid; 
+    filter: blur(10px);
+ }
+ .foto{
+    width: 250px; 
+    height: 350px; 
+    left: 64px; 
+    top: 325px; 
+    position: absolute; 
+    box-shadow: 0px 4px 50px #C22525;
+ }
+ .rectangle{
+    width: 234px; 
+    height: 44px; 
+    left: 72px; 
+    top: 735px; 
+    position: absolute; 
+    background: rgba(31, 32, 34, 0.50); 
+    box-shadow: 4px 4px 4px; 
+    filter: blur(4px);
+ }
+ .name{
+    width: 139px; 
+    height: 37px; 
+    left: 152px; 
+    top: 740px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: DotGothic16;
+    font-weight: 400; 
+    letter-spacing: 3.60px; 
+    word-wrap: break-word;
+ }
+ .brectangle{
+    width: 750px; 
+    height: 350px; 
+    left: 800px; 
+    top: 325px; 
+    position: absolute; 
+    background: rgba(31, 32, 34, 0.50); 
+    box-shadow: 5px 5px 5px; 
+    filter: blur(5px);
+ }
+ .text{
+    width: 661px; 
+    height: 260px; 
+    left:850px; 
+    top: 350px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Jost; 
+    font-weight: 400; 
+    letter-spacing: 4.80px; 
+    word-wrap: break-word;
+ }
+ .line2{
+    width: 450px; 
+    height: 0px; 
+    left: 331px; 
+    top: 500px; 
+    position: absolute; 
+    box-shadow: 10px 10px 10px;
+    border: 8px #02D7F2 solid; 
+    filter: blur(10px);
+ }
+ .crug1{
+    width: 24px; 
+    height: 24px; 
+    left: 330px; 
+    top: 495px; 
+    position: absolute; 
+    background: #02D7F2; 
+    box-shadow: 10px 10px 10px; 
+    filter: blur(10px);
+ }
+ .crug2{
+    width: 24px; 
+    height: 24px; 
+    left: 800px; 
+    top: 495px; 
+    position: absolute; 
+    background: #02D7F2; 
+    box-shadow: 10px 10px 10px; 
+    filter: blur(10px);
+ }
+ .frame2{
+    width: 260px; 
+    height: 360px; 
+    left: 59px; 
+    top: 320px; 
+    position: absolute; 
+    box-shadow: 10px 10px 10px; 
+    border: 5px rgba(255, 0, 235, 0.90) solid; 
+    filter: blur(10px);
+ }
+ .name2{
+    width: 300px; 
+    height: 40px; 
+    left: 55px; 
+    top: 740px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: DotGothic16; 
+    font-weight: 400; 
+    letter-spacing: 0.24px; 
+    word-wrap: break-word;
+ }
+ .rectangle2{
+    width: 320px; 
+    height: 44px; 
+    left: 35px; 
+    top: 735px; 
+    position: absolute; 
+    background: rgba(31, 32, 34, 0.50); 
+    box-shadow: 4px 4px 4px; 
+    filter: blur(4px);
+ }
+ .frame3{
+    width: 260px; 
+    height: 360px; 
+    left: 50px; 
+    top: 320px; 
+    position: absolute; 
+    box-shadow: 10px 10px 10px; 
+    border: 5px rgba(253, 1, 207, 0.90) solid; 
+    filter: blur(10px);
+ }
+ .name3{
+    width: 330px; 
+    height: 40px; 
+    left: 55px; 
+    top: 740px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: DotGothic16; 
+    font-weight: 400; 
+    letter-spacing: 0.24px; 
+    word-wrap: break-word;
+ }
+ .frame4{
+   width: 260px; 
+   height: 360px; 
+   left: 50px; 
+   top: 320px; 
+   position: absolute; 
+   box-shadow: 10px 10px 10px; 
+   border: 9px rgba(238, 118, 161, 0.90) solid; 
+   filter: blur(10px);
+}
+.frame5{
+   width: 260px; 
+   height: 360px; 
+   left: 50px; 
+   top: 310px; 
+   position: absolute; 
+   box-shadow: 10px 10px 10px; 
+   border: 9px rgba(26, 132, 114, 0.90) solid; 
+   filter: blur(10px);
+}
+.name4{
+   width: 430px; 
+   height: 40px; 
+   left: 55px; 
+   top: 740px; 
+   position: absolute; 
+   color: white; 
+   font-size: 24px; 
+   font-family: DotGothic16; 
+   font-weight: 400; 
+   letter-spacing: 0.24px; 
+   word-wrap: break-word;
+}
+.rectangle3{
+   width: 410px; 
+   height: 44px; 
+   left: 35px; 
+   top: 735px; 
+   position: absolute; 
+   background: rgba(31, 32, 34, 0.50); 
+   box-shadow: 4px 4px 4px; 
+   filter: blur(4px);
+}
